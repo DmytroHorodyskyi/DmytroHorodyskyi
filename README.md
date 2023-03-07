@@ -4,8 +4,10 @@
 
 <h3 align="center">Hi there 👋  welcome to my Github! I'm an IOS developer 🧑🏻‍💻</h3>
 
-  <a href="https://www.linkedin.com/in/dmytro-horodyskyi-176376241/"><h4 align="center">LinkedIn</h4></a>
-  <a href="mailto:dimagorodiskij@gmail.com"><h4 align="center">Gmail</h4></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dmytro-horodyskyi-176376241/">LinkedIn</a> <br>
+  <a href="mailto:dimagorodiskij@gmail.com">Gmail</a>
+</p>
   
 <p align="center">
   Check out my repos <br>
