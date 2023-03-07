@@ -1,24 +1,13 @@
 <p align="center">
-  <img width="250" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/657797f0e57ac0d5b8e857ab3597e6a9/large.gif">
+  <img width="300" src="https://github.com/DmytroHorodyskyi/DmytroHorodyskyi/blob/main/Apple%20logo.gif">
 </p>
 
-### Hi there 👋
+<h3 align="center">Hi there 👋  welcome to my Github! I'm an IOS developer 🧑🏻‍💻</h3>
 
-
-
-
-
-<!--
-**DmytroHorodyskyi/DmytroHorodyskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/dmytro-horodyskyi-176376241/"><h4 align="center">LinkedIn</h4></a>
+  <a href="mailto:dimagorodiskij@gmail.com"><h4 align="center">Gmail</h4></a>
+  
+<p align="center">
+  Check out my repos <br>
+   ↓
+</p>
