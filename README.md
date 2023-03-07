@@ -1,4 +1,12 @@
+<p align="center">
+  <img width="250" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/657797f0e57ac0d5b8e857ab3597e6a9/large.gif">
+</p>
+
 ### Hi there 👋
+
+
+
+
 
 <!--
 **DmytroHorodyskyi/DmytroHorodyskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
